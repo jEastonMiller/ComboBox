@@ -8,11 +8,11 @@ The following factors were considered when building out this combo box component
 
 ## General Approach
 
-When deciding on how to build out my own combo box component from scratch, I broke down the component into two basic parts contained within a div element. The first is an input (<input>) element and the second being an unordered HTML list (<ul>).
+When deciding on how to build out my own combo box component from scratch, I broke down the component into two basic parts contained within a div element. The first is an input (input) element and the second being an unordered HTML list (ul).
 
-The combo box container would have a max height and the hidden attribute of the <ul> would be toggled on and off based on input focus and an event listener attached to the svg icon container to display the dropdown options.
+The combo box container would have a max height and the hidden attribute of the ul would be toggled on and off based on input focus and an event listener attached to the svg icon container to display the dropdown options.
 
-Each <li>, when clicked, would then change the state of the drop down to collapse the combo box and display the users selection. It also logs to the console the users selection.
+Each li, when clicked, would then change the state of the drop down to collapse the combo box and display the users selection. It also logs to the console the users selection.
 
 From there I planned conditional styling to get as close to the combobox as possible. 
 
