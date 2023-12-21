@@ -1,0 +1,7 @@
+.optionDropdown {
+  list-style-type: none;
+  border: rgba(235, 130, 97, 1.0);
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}

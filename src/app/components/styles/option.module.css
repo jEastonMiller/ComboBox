@@ -1,0 +1,10 @@
+.listItem {
+  color: rgba(55, 55, 55, 1.0);
+  font-size: 0.75em;
+  padding: 0.20em 1.1em;
+}
+
+.listItem:hover {
+  background: rgba(232, 236, 239, 1.0);
+  cursor: pointer;
+}
