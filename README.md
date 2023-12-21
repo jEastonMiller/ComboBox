@@ -2,7 +2,8 @@
 The following factors were considered when building out this combo box component:
 
 - Conditional styling based on user interaction.
-- 
+- Minimal state change
+- Match provided example
 
 <!-- https://ileriayo.github.io/markdown-badges/#markdown-badges -->
 
